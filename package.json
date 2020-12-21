@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marco Sousa",
 	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"microservices"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
